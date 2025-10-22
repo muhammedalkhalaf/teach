@@ -1,0 +1,45 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Shiny specific
+rsconnect/
+
+# Data files (uncomment if you want to ignore data)
+# data/*.csv
+# data/*.xlsx
+
+# Output files
+*.pdf
+*.png
+*.docx
+*.html
+best_model.rds
+best_model_summary.txt
+best_model_diagnostics.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+.Rprofile
+
+# Temporary files
+*.tmp
+*.log
+*~
+
+# Package build
+*.tar.gz
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+__pycache__/
